@@ -2,7 +2,7 @@ var bird,birdflying
 var greenchilliGroup,redchilliGroup,pipe1Group,pipe2Group
 
 function preload(){
-   birdflying =  loadAnimation("birdImage1.png","images/birdImage2.png");
+   birdflying =  loadAnimation("birdImage1.png","birdImage2.png");
    backgroundImage = loadImage("backgroundimage.jpg")
 
 
